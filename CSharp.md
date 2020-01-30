@@ -39,14 +39,13 @@ methods with the same name but different implementations
 **Answer:**
 
 ```
-Managed code is a code which is executed by CLR (Common Language Runtime)
-i.e all application code based on .Net Platform. It is considered as managed
-because of the .Net framework which internally uses the garbage collector to
-clear up the unused memory.
+Managed code is a code which is executed by CLR (Common Language Runtime) i.e all application
+code based on .Net Platform. It is considered as managed because of the .Net framework which
+internally uses the garbage collector to clear up the unused memory.
 
-Unmanaged code is any code that is executed by application runtime of
-any other framework apart from .Net. The application runtime will take
-care of memory, security and other performance operations.
+Unmanaged code is any code that is executed by application runtime of any other framework
+apart from .Net. The application runtime will take care of memory, security and other
+performance operations.
 ```
 + Score out of 2 : 
 
