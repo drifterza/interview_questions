@@ -7,7 +7,8 @@
 A Class is an encapsulation of properties and methods that are used to represent a real-time entity. 
 It is a data structure that brings all the instances together in a single unit.
 
-An Object in an instance of a Class. Technically, it is just a block of memory allocated that can be stored in the form of Variables, Array or a Collection.
+An Object in an instance of a Class. Technically, it is just a block of memory allocated 
+that can be stored in the form of Variables, Array or a Collection.
 ```
 + Score out of 2 : 
 
@@ -18,7 +19,8 @@ An Object in an instance of a Class. Technically, it is just a block of memory a
 The four fundamental concepts of Object Oriented Programming are:
 
 ```
-Encapsulation – The Internal representation of an object is hidden from the view outside object’s definition. Only the required information can be accessed whereas the rest of the data implementation is hidden.
+Encapsulation – The Internal representation of an object is hidden from the view outside
+object’s definition. Only the required information can be accessed whereas the rest of the data implementation is hidden.
 
 Abstraction – It is a process of identifying the critical behavior and data of an object and eliminating the irrelevant details.
 
