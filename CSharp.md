@@ -2,9 +2,10 @@
 
 #### (Q1) What is an Object and a Class?
 
-Answer:
+**Answer:**
 ``` 
-A Class is an encapsulation of properties and methods that are used to represent a real-time entity. It is a data structure that brings all the instances together in a single unit.
+A Class is an encapsulation of properties and methods that are used to represent a real-time entity. 
+It is a data structure that brings all the instances together in a single unit.
 
 An Object in an instance of a Class. Technically, it is just a block of memory allocated that can be stored in the form of Variables, Array or a Collection.
 ```
@@ -12,7 +13,7 @@ An Object in an instance of a Class. Technically, it is just a block of memory a
 
 #### (Q2) What are the fundamental OOP concepts?
 
-Answer: 
+**Answer:**
 
 The four fundamental concepts of Object Oriented Programming are:
 
@@ -29,7 +30,7 @@ Polymorphism – The name means, one name, many forms. It is achieved by having 
 
 #### (Q3) What is Managed and Unmanaged code?
 
-Answer: 
+**Answer:**
 
 ```
 Managed code is a code which is executed by CLR (Common Language Runtime) i.e all application code based on .Net Platform. It is considered as managed because of the .Net framework which internally uses the garbage collector to clear up the unused memory.
@@ -41,7 +42,7 @@ Unmanaged code is any code that is executed by application runtime of any other 
 
 #### (Q4) What is an Interface?
 
-Answer: 
+**Answer:**
 
 ```
 An Interface is a class with no implementation. The only thing that it contains is the declaration of methods, properties, and events.
@@ -50,7 +51,7 @@ An Interface is a class with no implementation. The only thing that it contains 
 
 #### (Q5) What are the different types of classes in C#?
 
-Answer: 
+**Answer**
 
 The different types of class in C# are:
 
@@ -68,7 +69,7 @@ Static class – It is a class which does not allow inheritance. The members of 
 
 #### (Q6) Explain Code compilation in C#.
 
-Answer: 
+**Answer:**
 
 There are four steps in code compilation which include:
 
@@ -85,7 +86,7 @@ Executing the assembly by CLR.
 
 #### (Q7) What is the difference between Virtual method and Abstract method?
 
-Answer: 
+**Answer:**
 
 ```
 A Virtual method must always have a default implementation. However, it can be overridden in the derived class, though not mandatory. It can be overridden using override keyword.
@@ -96,7 +97,7 @@ An Abstract method does not have an implementation. It resides in the abstract c
 
 #### (Q8) Explain Namespaces in C#.
 
-Answer: 
+**Answer:**
 
 ```
 They are used to organize large code projects. “System” is the most widely used namespace in C#. We can create our own namespace and use one namespace in another, which are called Nested Namespaces.
@@ -105,7 +106,7 @@ They are used to organize large code projects. “System” is the most widely u
 
 #### (Q9) How is Exception Handling implemented in C#?
 
-Answer: 
+**Answer:**
 
 Exception handling is done using four keywords in C#:
 
@@ -119,7 +120,7 @@ Throw – Throws an exception when a problem occurs.
 
 #### (Q10) What is the difference between Continue and Break Statement?
 
-Answer: 
+**Answer:**
 
 ```
 Break statement breaks the loop. It makes the control of the program to exit the loop.
@@ -132,7 +133,7 @@ Continue statement makes the control of the program to exit only the current ite
 
 Name some String escape sequences in C#.
 
-Answer: 
+**Answer:**
 
 ```
 An Escape sequence is denoted by a backslash (\). The backslash indicates that the character that follows it should be interpreted literally or it is a special character. An escape sequence is considered as a single character.
