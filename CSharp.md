@@ -20,13 +20,17 @@ The four fundamental concepts of Object Oriented Programming are:
 
 ```
 Encapsulation – The Internal representation of an object is hidden from the view outside
-object’s definition. Only the required information can be accessed whereas the rest of the data implementation is hidden.
+object’s definition. Only the required information can be accessed whereas the rest of the
+data implementation is hidden.
 
-Abstraction – It is a process of identifying the critical behavior and data of an object and eliminating the irrelevant details.
+Abstraction – It is a process of identifying the critical behavior and data of an object
+and eliminating the irrelevant details.
 
-Inheritance – It is the ability to create new classes from another class. It is done by accessing, modifying and extending the behavior of objects in the parent class.
+Inheritance – It is the ability to create new classes from another class. It is done by
+accessing, modifying and extending the behavior of objects in the parent class.
 
-Polymorphism – The name means, one name, many forms. It is achieved by having multiple methods with the same name but different implementations
+Polymorphism – The name means, one name, many forms. It is achieved by having multiple
+methods with the same name but different implementations
 ```
 + Score out of 4 : 
 
@@ -35,9 +39,14 @@ Polymorphism – The name means, one name, many forms. It is achieved by having 
 **Answer:**
 
 ```
-Managed code is a code which is executed by CLR (Common Language Runtime) i.e all application code based on .Net Platform. It is considered as managed because of the .Net framework which internally uses the garbage collector to clear up the unused memory.
+Managed code is a code which is executed by CLR (Common Language Runtime)
+i.e all application code based on .Net Platform. It is considered as managed
+because of the .Net framework which internally uses the garbage collector to
+clear up the unused memory.
 
-Unmanaged code is any code that is executed by application runtime of any other framework apart from .Net. The application runtime will take care of memory, security and other performance operations.
+Unmanaged code is any code that is executed by application runtime of
+any other framework apart from .Net. The application runtime will take
+care of memory, security and other performance operations.
 ```
 + Score out of 2 : 
 
